@@ -1,0 +1,5 @@
+# 忽略index.js文件
+index.js
+
+# 忽略 tets 目录下所以的文件
+test/
